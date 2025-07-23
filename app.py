@@ -1,7 +1,7 @@
 import streamlit as st
 from utils import run_agent_sync
 
-st.set_page_config(page_title="MCP POC", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="MCP LPG", page_icon="🤖", layout="wide")
 
 st.title("Model Context Protocol(MCP) - Learning Path Generator")
 
